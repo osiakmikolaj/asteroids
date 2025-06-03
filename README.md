@@ -1,7 +1,5 @@
 # Asteroids
 
-## About
-
 This is a simple clone of the classic "Asteroids" arcade game, implemented in Python using the pygame library. The purpose of this project is to demonstrate basic game development concepts such as sprite management, collision detection, and simple physics in a 2D environment.
 
 ## Requirements
