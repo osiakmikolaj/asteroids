@@ -9,14 +9,14 @@ This is a simple clone of the classic "Asteroids" arcade game, implemented in Py
 
 ## How to play
 
-### 1. Clone the repository
+#### 1. Clone the repository
 
 ```sh
 git clone <repository-url>
 cd asteroids
 ```
 
-### 2. Set up the environment
+#### 2. Set up the environment
 
 It is recommended to use a virtual environment:
 
@@ -25,13 +25,13 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3. Install dependencies
+#### 3. Install dependencies
 
 ```sh
 pip install -r requirements.txt
 ```
 
-### 4. Run the game
+#### 4. Run the game
 
 Linux
 
@@ -45,7 +45,7 @@ Windows
 python main.py
 ```
 
-### 5. Controls
+#### 5. Controls
 
 -   **W**: Move forward
 -   **S**: Move backward
